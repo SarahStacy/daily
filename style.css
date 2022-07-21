@@ -11,7 +11,7 @@
     height: 2000px;
 }
 #hie{
-    color: blueviolet;
+    color: red;
 }
 .ju{
     top: 50%;
@@ -29,7 +29,7 @@
 }
 .ju p{
     font-size: 22px;
-    color: brown;
+    color: red;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .ju h2{
@@ -39,7 +39,7 @@
       color:  rgb(99, 99, 164);
 }
 .git h1{
-    color:blueviolet;
+    color:green;
 }
 .sain{
     color:green;
@@ -54,7 +54,7 @@ button{
 }
 ul{
     display: flex;
-    background-color:  greenyellow;
+    background-color:  yellow;
 }
 ul li{
     list-style: none;
@@ -99,11 +99,11 @@ th {
   }
 #vie{
     font-size: 25px;
-    color: blueviolet;
+    color: royalblue;
     text-align: center;
 }
 p{
-    color: black;
+    color: white;
 }
 .two table{
     background-color: black;
